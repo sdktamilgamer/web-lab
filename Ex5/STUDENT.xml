@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+
+<?xml-stylesheet type="text/xsl" version="2.0" href="student.xsl"?>
+
+<student>
+
+<Person-Details>
+
+<name>kumar</name>
+
+<department>CSE-DS(AI)</department>
+
+<univ_rank>1</univ_rank>
+
+<percentage>91%</percentage>
+
+</Person-Details>
+
+<Person-Details>
+
+<name>Dinesh Kumar S</name>
+
+<department>CSE-DS(AI)</department>
+
+<univ_rank>3</univ_rank>
+
+<percentage>80%</percentage>
+
+</Person-Details>
+
+<Person-Details>
+
+<name>SDK</name>
+
+<department>CSE</department>
+
+<univ_rank>2</univ_rank>
+
+<percentage>85%</percentage>
+
+</Person-Details>
+
+</student>
